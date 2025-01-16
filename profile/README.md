@@ -21,7 +21,7 @@ We welcome contributions from the community!
 
 ## 🌐 Connect With Us  
 Visit our website: [NanoPulse Labs](https://nanopulselabs.com)  
-Follow us on [LinkedIn](#).
+Follow us on [LinkedIn]((https://www.linkedin.com/company/93231937/)).
 
 ---  
 We’re here to change the game. Are you ready to join us? 🐺  
